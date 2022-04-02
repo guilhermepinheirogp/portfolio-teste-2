@@ -1,0 +1,9 @@
+.btn {
+  padding: 5px 30px;
+}
+
+.btn-azul{
+  background: #0072BC;
+  border-radius: 30px;
+  color: #fff;
+}

@@ -1,0 +1,27 @@
+main section{
+  justify-content: space-between;
+}
+
+main section article{
+  width: 350px;
+}
+
+main section h1{
+  font-size: 60px;
+  line-height: 50px;
+  padding: 20px 0;
+}
+
+main section h2{
+  font-size: 30px;
+  line-height: 30px;
+  padding: 20px 0;
+}
+
+main section p{
+  margin-bottom: 30px;
+}
+
+main figcaption img{
+  width: 500px;
+}
